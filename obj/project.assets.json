@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\새 폴더\\C-Language-Lecture\\2024CSStudyKDH\\2024CSStudyKDH.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\2024CSStudyKDH.csproj",
       "projectName": "2024CSStudyKDH",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\새 폴더\\C-Language-Lecture\\2024CSStudyKDH\\2024CSStudyKDH.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\2024CSStudyKDH.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\새 폴더\\C-Language-Lecture\\2024CSStudyKDH\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
