@@ -15,6 +15,25 @@
             myex.Mymethod();
 
             Test();
+
+            BoxingTest(3, 'c');         // 3과 'c' 데이터 타입이 object 매개 변수로 넘겨지면서 박싱이 발생한다.
+        }
+
+        static void BoxingTest(params object[] args)
+        {
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i] is int)
+                {
+                    int n = (int)args[i];                     // object 타입을 기본 데이터 타입에 초기화하면서 언박싱이 발생한다.
+                    Console.WriteLine($"{n} is int");
+                }
+                else if (args[i] is char)
+                {
+                    char c = (char)args[i];
+                    Console.WriteLine($"{c} is char");
+                }
+            }
         }
 
         static void Exmaple2Method()
@@ -49,8 +68,6 @@
             
             ArrayList arraylist = new ArrayList();
             arraylist.Add(aa);
-
-            int bbb = int.Parse(b);
 
             Console.WriteLine($"a의 값 : {a} ");
             Console.WriteLine($"aa의 값 : {aa}");
