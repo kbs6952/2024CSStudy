@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class02\\2024CSStudyKDH.csproj",
-      "projectName": "2024CSStudyKDH",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class02\\2024CSStudyKDH.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class02\\2024CSStudy.csproj",
+      "projectName": "2024CSStudy",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class02\\2024CSStudy.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class02\\obj\\",
       "projectStyle": "PackageReference",
