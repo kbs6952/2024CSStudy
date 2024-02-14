@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class_04\\Class_04.csproj",
-      "projectName": "Class_04",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class_04\\Class_04.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class_04\\Class04.csproj",
+      "projectName": "Class04",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class_04\\Class04.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class_04\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
