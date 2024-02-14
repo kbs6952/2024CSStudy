@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class03", "Class03", "{4C92
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class03", "..\Class03\Class03.csproj", "{1A7A85F7-A454-4567-AD2F-BDC6B3BE761D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_04", "..\Class_04\Class_04.csproj", "{58F49457-B6CA-4D14-8702-032B7136A51F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class04", "..\Class_04\Class04.csproj", "{58F49457-B6CA-4D14-8702-032B7136A51F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
