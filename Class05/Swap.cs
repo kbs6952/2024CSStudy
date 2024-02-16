@@ -54,6 +54,9 @@ namespace Class05
 
         public void SelectValue()
         {
+            // Yes 키워드를 저장하고 있는 버튼을 입력 Y() Swap해라 조건문
+            if (Console.ReadLine() == "Y")
+                SwapValue();
 
         }
 

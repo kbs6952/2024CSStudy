@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class05\\Class05.csproj",
-      "projectName": "Class05",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class05\\Class05.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class06\\Class06.csproj",
+      "projectName": "Class06",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class06\\Class06.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class05\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\2024CSStudy\\Class06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
